@@ -48,7 +48,7 @@ Contributions to this repository are welcome. If you have any suggestions, impro
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or questions, please contact [your_email@example.com](mailto:abrarahmed12.work@gmail.com).
+For any inquiries or questions, please contact [abrarahmed12.work@gmail.com](mailto:abrarahmed12.work@gmail.com).
 
 ## Acknowledgments
 Special thanks to the creators of the dataset used in this project and to the open-source community for their valuable contributions to the field of machine learning.
